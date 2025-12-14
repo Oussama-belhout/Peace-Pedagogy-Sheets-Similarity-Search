@@ -1,53 +1,73 @@
-# Peace Pedagogy Similarity Search System
+# Peace Pedagogy Similarity Search
 
-A semantic similarity search system for pedagogical sheets based on Peace Pedagogy (ECP - Éducation à la Culture de Paix) principles using ontology-based knowledge representation.
+Semantic search system for finding similar pedagogical sheets based on Peace Pedagogy (ECP) principles.
 
-## Project Overview
+## Overview
 
-This system creates a formal ontology for Peace Pedagogy lessons and provides semantic similarity search capabilities to find related lessons based on multiple pedagogical dimensions including:
+This system provides semantic similarity search capabilities for Peace Pedagogy lessons using an OWL ontology. It computes multi-dimensional similarity across pedagogical dimensions to find related lessons.
 
-- **Peace Axes**: Peace with Self, Peace with Others, Peace with Environment
-- **Pedagogical Tools**: CEVQ, Meditation, Project-Based Learning, etc.
-- **Virtues**: Gratitude, Empathy, Responsibility, Compassion, etc.
-- **Teaching Strategies**: Experiential Learning, Dialogical Approach, etc.
-- **Age Ranges**: Target age groups for lessons
-- **Duration**: Lesson duration compatibility
+### Key Features
+
+- Ontology-based knowledge representation
+- Multi-dimensional similarity scoring
+- Explainable results with similarity breakdowns
+- Flexible search by metadata
+
+### Dimensions
+
+- **Peace Axes**: Peace with Self, Others, Environment
+- **Pedagogical Tools**: CEVQ, Meditation, Project-Based Learning
+- **Virtues**: Gratitude, Empathy, Responsibility, Compassion
+- **Teaching Strategies**: Experiential Learning, Dialogical Approach
+- **Age Ranges**: Target age group compatibility
+- **Duration**: Lesson duration matching
 - **Academic Domains**: Sciences, Arts, Ethics, Languages
 
-## Features
+## Installation
 
-✅ **Ontology-Based Knowledge Representation**: Formal OWL ontology built with Owlready2  
-✅ **Multi-Dimensional Similarity**: Weighted similarity across 7 pedagogical dimensions  
-✅ **Explainable Results**: Breakdown of similarity scores by dimension  
-✅ **Flexible Search**: Find similar lessons or search by specific criteria  
-✅ **Extensible**: Easy to add new lessons, tools, virtues, and strategies  
+```bash
+pip install -r requirements.txt
+```
+
+## Quick Start
+
+```python
+from find_similar_lessons import find_similar
+
+results = find_similar(
+    title="Protecting Local Wildlife",
+    domain="Sciences",
+    axes=["peace_with_environment"],
+    tools=["project_based_learning"],
+    virtues=["responsibility", "compassion"],
+    target_age_min=8,
+    target_age_max=12,
+    top_k=3
+)
+
+for result in results:
+    print(f"{result['title']}: {result['similarity_score']:.2%}")
+```
 
 ## Project Structure
 
 ```
-peace-pedagogy-similarity/
-├── data/
-│   ├── lessons/              # Additional lesson data
-│   └── sample_data.json      # Sample lesson data
-├── ontology/
-│   └── peace_pedagogy.owl    # OWL ontology file
 ├── src/
-│   ├── __init__.py
-│   ├── ontology_builder.py   # Creates the ontology
-│   ├── similarity_engine.py  # Similarity computation
-│   └── data_loader.py        # Loads lessons into ontology
-├── tests/                    # Unit tests
-├── notebooks/                # Jupyter notebooks for analysis
-├── FICHES PEDAGOGIQUES/      # Pedagogical sheets (PDF)
-├── requirements.txt          # Python dependencies
-└── README.md                 # This file
+│   ├── ontology_builder.py    # OWL ontology creation
+│   ├── similarity_engine.py   # Similarity computation
+│   ├── data_loader.py         # Load lessons from JSON
+│   └── query_engine.py        # Query interface
+├── data/
+│   └── pedagogical_sheets.json
+├── ontology/
+│   └── peace_pedagogy.owl
+├── find_similar_lessons.py    # Main API
+└── run_complete_demo.py       # Full demonstration
 ```
 
-## Installation
+## Further Documentation
 
-### Prerequisites
-
-- Python 3.8 or higher
+See [GUIDE.md](GUIDE.md) for detailed API reference and system architecture.
 - Java (for Protégé visualization - optional)
 
 ### Setup

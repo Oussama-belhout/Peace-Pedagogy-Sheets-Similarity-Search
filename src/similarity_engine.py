@@ -16,7 +16,7 @@ class SimilarityEngine:
     def __init__(self, ontology):
         self.onto = ontology
         
-        # Weights for different dimensions
+        # Weights for different dimensions 
         self.weights = {
             'axes': 0.25,
             'tools': 0.20,
