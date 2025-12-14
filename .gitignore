@@ -20,3 +20,5 @@ htmlcov/
 *.swp
 *.swo
 *~
+tests\demo_live.py
+tests\demo.py
