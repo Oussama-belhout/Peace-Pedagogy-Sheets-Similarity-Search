@@ -22,3 +22,4 @@ htmlcov/
 *~
 tests\demo_live.py
 tests\demo.py
+docs\READMA_EXTENSION.md
