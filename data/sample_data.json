@@ -1,0 +1,92 @@
+{
+  "lessons": [
+    {
+      "id": "mandala_rice",
+      "title": "Mandala d'une assiette de riz",
+      "description": "Awakening to interdependence through visualization of a rice meal's origins",
+      "domain": "Sciences",
+      "discipline": "économie de la nature",
+      "axes": ["peace_with_environment", "peace_with_others"],
+      "tools": ["cevq", "project_based_learning"],
+      "strategies": ["experiential_learning", "awakening_alterity"],
+      "virtues": ["gratitude", "empathy", "responsibility"],
+      "objectives": ["understand_interdependence", "develop_gratitude", "ecological_awareness"],
+      "target_age_min": 6,
+      "target_age_max": 14,
+      "duration": 3.0,
+      "group_size_min": 15,
+      "group_size_max": 25
+    },
+    {
+      "id": "community_garden",
+      "title": "Community Garden Project",
+      "description": "Creating and maintaining a shared garden to learn about ecosystems and collaboration",
+      "domain": "Sciences",
+      "discipline": "ecology",
+      "axes": ["peace_with_environment", "peace_with_others"],
+      "tools": ["project_based_learning", "cevq"],
+      "strategies": ["experiential_learning", "collaborative_construction"],
+      "virtues": ["responsibility", "patience", "cooperation"],
+      "objectives": ["ecological_awareness", "collaborative_skills", "patience"],
+      "target_age_min": 8,
+      "target_age_max": 12,
+      "duration": 2.5,
+      "group_size_min": 10,
+      "group_size_max": 20
+    },
+    {
+      "id": "peace_circle",
+      "title": "Circle of Listening",
+      "description": "A CEVQ session focused on active listening and empathy",
+      "domain": "Ethics",
+      "discipline": "communication",
+      "axes": ["peace_with_self", "peace_with_others"],
+      "tools": ["cevq", "meditation"],
+      "strategies": ["dialogical_approach", "structured_questioning"],
+      "virtues": ["empathy", "patience", "benevolence"],
+      "objectives": ["active_listening", "emotional_regulation", "empathy_development"],
+      "target_age_min": 7,
+      "target_age_max": 15,
+      "duration": 1.5,
+      "group_size_min": 12,
+      "group_size_max": 25
+    },
+    {
+      "id": "musical_harmony",
+      "title": "Creating Harmony Together",
+      "description": "Collaborative music creation to experience harmony and cooperation",
+      "domain": "Arts",
+      "discipline": "music",
+      "axes": ["peace_with_self", "peace_with_others"],
+      "tools": ["artistic_expression", "project_based_learning"],
+      "strategies": ["experiential_learning", "collaborative_construction"],
+      "virtues": ["patience", "benevolence", "empathy"],
+      "objectives": ["emotional_expression", "collaborative_skills", "inner_harmony"],
+      "target_age_min": 8,
+      "target_age_max": 14,
+      "duration": 2.0,
+      "group_size_min": 15,
+      "group_size_max": 30
+    },
+    {
+      "id": "water_cycle",
+      "title": "The Journey of Water",
+      "description": "Understanding water cycle and our responsibility to water resources",
+      "domain": "Sciences",
+      "discipline": "environmental_science",
+      "axes": ["peace_with_environment"],
+      "tools": ["project_based_learning", "artistic_expression"],
+      "strategies": ["experiential_learning", "structured_questioning"],
+      "virtues": ["responsibility", "gratitude"],
+      "objectives": ["ecological_awareness", "systems_thinking", "environmental_responsibility"],
+      "target_age_min": 9,
+      "target_age_max": 13,
+      "duration": 2.5,
+      "group_size_min": 15,
+      "group_size_max": 25
+    }
+  ]
+}
+
+
+

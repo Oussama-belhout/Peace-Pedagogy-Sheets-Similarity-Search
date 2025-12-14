@@ -1,0 +1,816 @@
+{
+  "lessons": [
+    {
+      "id": "mise_en_sc_ne_de_l_histoire_du_sultan_inconscient",
+      "title": "Mise en scène de l'histoire du Sultan inconscient",
+      "description": "Lesson from Séance - Mise en scène de l'histoire du Sultan inconscient  FR-A-T-8p-41.pdf",
+      "domain": "Arts",
+      "discipline": "theater",
+      "axes": [
+        "peace_with_self",
+        "peace_with_others",
+        "peace_with_environment"
+      ],
+      "tools": [
+        "cevq",
+        "project_based_learning",
+        "artistic_expression"
+      ],
+      "virtues": [
+        "benevolence",
+        "sharing"
+      ],
+      "strategies": [
+        "experiential_learning"
+      ],
+      "objectives": [],
+      "target_age_min": 8,
+      "target_age_max": 41,
+      "duration": 0.5833333333333334,
+      "group_size_min": 15,
+      "group_size_max": 30,
+      "pdf_path": "FICHES PEDAGOGIQUES\\Arts\\Séance - Mise en scène de l'histoire du Sultan inconscient  FR-A-T-8p-41.pdf"
+    },
+    {
+      "id": "r_alisation_d_objets_d_coratifs",
+      "title": "Réalisation d'objets décoratifs",
+      "description": "Lesson from Séance - Réalisation d'objets décoratifs FR-A-TM-5-6-35.pdf",
+      "domain": "Arts",
+      "discipline": "craft",
+      "axes": [
+        "peace_with_others",
+        "peace_with_environment"
+      ],
+      "tools": [
+        "cevq",
+        "project_based_learning",
+        "artistic_expression"
+      ],
+      "virtues": [
+        "respect"
+      ],
+      "strategies": [
+        "experiential_learning"
+      ],
+      "objectives": [],
+      "target_age_min": 5,
+      "target_age_max": 6,
+      "duration": 0.5833333333333334,
+      "group_size_min": 15,
+      "group_size_max": 30,
+      "pdf_path": "FICHES PEDAGOGIQUES\\Arts\\Séance - Réalisation d'objets décoratifs FR-A-TM-5-6-35.pdf"
+    },
+    {
+      "id": "tableau_de_feuilles_s_ch_es",
+      "title": "Tableau de feuilles séchées",
+      "description": "Lesson from Séance - Tableau de feuilles séchées FR-A-PD-6p-47.pdf",
+      "domain": "Arts",
+      "discipline": "drawing",
+      "axes": [
+        "peace_with_others",
+        "peace_with_environment"
+      ],
+      "tools": [
+        "cevq",
+        "project_based_learning",
+        "artistic_expression"
+      ],
+      "virtues": [
+        "responsibility"
+      ],
+      "strategies": [
+        "experiential_learning"
+      ],
+      "objectives": [],
+      "target_age_min": 6,
+      "target_age_max": 47,
+      "duration": 0.25,
+      "group_size_min": 15,
+      "group_size_max": 30,
+      "pdf_path": "FICHES PEDAGOGIQUES\\Arts\\Séance - Tableau de feuilles séchées FR-A-PD-6p-47.pdf"
+    },
+    {
+      "id": "accepter_diff_rents_points_de_vue",
+      "title": "Accepter différents points de vue",
+      "description": "Lesson from Séance - Accepter différents points de vue FR-ET-SCP-5-46.pdf",
+      "domain": "Ethics",
+      "discipline": "socio_emotional",
+      "axes": [
+        "peace_with_self",
+        "peace_with_others",
+        "peace_with_environment"
+      ],
+      "tools": [
+        "cevq",
+        "artistic_expression",
+        "solution_oriented_learning"
+      ],
+      "virtues": [
+        "empathy",
+        "responsibility",
+        "patience",
+        "respect"
+      ],
+      "strategies": [
+        "experiential_learning"
+      ],
+      "objectives": [],
+      "target_age_min": 5,
+      "target_age_max": 46,
+      "duration": 0.5,
+      "group_size_min": 15,
+      "group_size_max": 30,
+      "pdf_path": "FICHES PEDAGOGIQUES\\Ethique\\Séance - Accepter différents points de vue FR-ET-SCP-5-46.pdf"
+    },
+    {
+      "id": "atteindre_les_toiles",
+      "title": "Atteindre les étoiles",
+      "description": "Lesson from Séance - Atteindre les étoiles FR-ET-SCP-8p-19.pdf",
+      "domain": "Ethics",
+      "discipline": "socio_emotional",
+      "axes": [
+        "peace_with_self",
+        "peace_with_others"
+      ],
+      "tools": [
+        "cevq",
+        "project_based_learning",
+        "artistic_expression"
+      ],
+      "virtues": [
+        "respect"
+      ],
+      "strategies": [
+        "experiential_learning"
+      ],
+      "objectives": [],
+      "target_age_min": 8,
+      "target_age_max": 19,
+      "duration": 0.8333333333333334,
+      "group_size_min": 15,
+      "group_size_max": 30,
+      "pdf_path": "FICHES PEDAGOGIQUES\\Ethique\\Séance - Atteindre les étoiles FR-ET-SCP-8p-19.pdf"
+    },
+    {
+      "id": "l_humilit",
+      "title": "L'humilité",
+      "description": "Lesson from Séance - L'humilité TU-FR-ET-SCP-7-12-51 .pdf",
+      "domain": "Unknown",
+      "discipline": "et",
+      "axes": [
+        "peace_with_self",
+        "peace_with_others",
+        "peace_with_environment"
+      ],
+      "tools": [
+        "cevq",
+        "artistic_expression",
+        "solution_oriented_learning"
+      ],
+      "virtues": [
+        "humility",
+        "respect"
+      ],
+      "strategies": [
+        "experiential_learning"
+      ],
+      "objectives": [],
+      "target_age_min": 7,
+      "target_age_max": 12,
+      "duration": 1.0,
+      "group_size_min": 15,
+      "group_size_max": 30,
+      "pdf_path": "FICHES PEDAGOGIQUES\\Ethique\\Séance - L'humilité TU-FR-ET-SCP-7-12-51 .pdf"
+    },
+    {
+      "id": "l_importance_de_l_entraide_et_du_partage",
+      "title": "L'importance de l'entraide et du partage",
+      "description": "Lesson from Séance - L'importance de l'entraide et du partage FR-ET-SCP-4-6-23.pdf",
+      "domain": "Ethics",
+      "discipline": "socio_emotional",
+      "axes": [
+        "peace_with_self",
+        "peace_with_others"
+      ],
+      "tools": [
+        "cevq",
+        "artistic_expression"
+      ],
+      "virtues": [
+        "sharing"
+      ],
+      "strategies": [
+        "experiential_learning"
+      ],
+      "objectives": [],
+      "target_age_min": 4,
+      "target_age_max": 6,
+      "duration": 0.4166666666666667,
+      "group_size_min": 15,
+      "group_size_max": 30,
+      "pdf_path": "FICHES PEDAGOGIQUES\\Ethique\\Séance - L'importance de l'entraide et du partage FR-ET-SCP-4-6-23.pdf"
+    },
+    {
+      "id": "l_univers_des_motions",
+      "title": "L'univers des émotions",
+      "description": "Lesson from Séance - L'univers des émotions FR-ET-SCP-7-11-30.pdf",
+      "domain": "Ethics",
+      "discipline": "socio_emotional",
+      "axes": [
+        "peace_with_self",
+        "peace_with_others"
+      ],
+      "tools": [
+        "cevq",
+        "artistic_expression",
+        "solution_oriented_learning"
+      ],
+      "virtues": [
+        "responsibility"
+      ],
+      "strategies": [
+        "experiential_learning"
+      ],
+      "objectives": [],
+      "target_age_min": 7,
+      "target_age_max": 11,
+      "duration": 0.08333333333333333,
+      "group_size_min": 15,
+      "group_size_max": 30,
+      "pdf_path": "FICHES PEDAGOGIQUES\\Ethique\\Séance - L'univers des émotions FR-ET-SCP-7-11-30.pdf"
+    },
+    {
+      "id": "la_bienveillance",
+      "title": "La bienveillance",
+      "description": "Lesson from Séance - La bienveillance  FR-ET-SCP-4p-2.pdf",
+      "domain": "Ethics",
+      "discipline": "socio_emotional",
+      "axes": [
+        "peace_with_self",
+        "peace_with_others",
+        "peace_with_environment"
+      ],
+      "tools": [
+        "cevq",
+        "artistic_expression",
+        "solution_oriented_learning"
+      ],
+      "virtues": [
+        "empathy",
+        "benevolence"
+      ],
+      "strategies": [
+        "experiential_learning"
+      ],
+      "objectives": [],
+      "target_age_min": 4,
+      "target_age_max": 2,
+      "duration": 0.5,
+      "group_size_min": 15,
+      "group_size_max": 30,
+      "pdf_path": "FICHES PEDAGOGIQUES\\Ethique\\Séance - La bienveillance  FR-ET-SCP-4p-2.pdf"
+    },
+    {
+      "id": "la_synergie_du_groupe_par_le_partage",
+      "title": "La synergie du groupe par le partage",
+      "description": "Lesson from Séance - La synergie du groupe par le partage FR-ET-SCP-4-6-24.pdf",
+      "domain": "Ethics",
+      "discipline": "socio_emotional",
+      "axes": [
+        "peace_with_others"
+      ],
+      "tools": [
+        "cevq",
+        "artistic_expression",
+        "solution_oriented_learning"
+      ],
+      "virtues": [
+        "sharing"
+      ],
+      "strategies": [
+        "experiential_learning"
+      ],
+      "objectives": [],
+      "target_age_min": 4,
+      "target_age_max": 6,
+      "duration": 0.4166666666666667,
+      "group_size_min": 15,
+      "group_size_max": 30,
+      "pdf_path": "FICHES PEDAGOGIQUES\\Ethique\\Séance - La synergie du groupe par le partage FR-ET-SCP-4-6-24.pdf"
+    },
+    {
+      "id": "le_bel_agir_dans_ma_ville",
+      "title": "Le bel agir dans ma ville",
+      "description": "Lesson from Séance - Le bel agir dans ma ville FR-ET-C-4-6-42.pdf",
+      "domain": "Ethics",
+      "discipline": "citizenship",
+      "axes": [
+        "peace_with_self",
+        "peace_with_others",
+        "peace_with_environment"
+      ],
+      "tools": [
+        "cevq",
+        "project_based_learning",
+        "artistic_expression"
+      ],
+      "virtues": [
+        "gratitude",
+        "empathy"
+      ],
+      "strategies": [
+        "experiential_learning"
+      ],
+      "objectives": [],
+      "target_age_min": 4,
+      "target_age_max": 6,
+      "duration": 0.5,
+      "group_size_min": 15,
+      "group_size_max": 30,
+      "pdf_path": "FICHES PEDAGOGIQUES\\Ethique\\Séance - Le bel agir dans ma ville FR-ET-C-4-6-42.pdf"
+    },
+    {
+      "id": "nasruddin_et_son_ne",
+      "title": "Nasruddin et son âne",
+      "description": "Lesson from Séance - Nasruddin et son âne FR-ET-SCP-8p-16.pdf",
+      "domain": "Ethics",
+      "discipline": "socio_emotional",
+      "axes": [
+        "peace_with_self",
+        "peace_with_others"
+      ],
+      "tools": [
+        "cevq",
+        "project_based_learning",
+        "artistic_expression",
+        "solution_oriented_learning"
+      ],
+      "virtues": [
+        "responsibility"
+      ],
+      "strategies": [
+        "experiential_learning"
+      ],
+      "objectives": [],
+      "target_age_min": 8,
+      "target_age_max": 16,
+      "duration": 0.8333333333333334,
+      "group_size_min": 15,
+      "group_size_max": 30,
+      "pdf_path": "FICHES PEDAGOGIQUES\\Ethique\\Séance - Nasruddin et son âne FR-ET-SCP-8p-16.pdf"
+    },
+    {
+      "id": "r_ver_le_monde_nouveau",
+      "title": "Rêver le monde nouveau",
+      "description": "Lesson from Séance - Rêver le monde nouveau FR-ET-SCP-10p-20.pdf",
+      "domain": "Ethics",
+      "discipline": "socio_emotional",
+      "axes": [
+        "peace_with_self",
+        "peace_with_others",
+        "peace_with_environment"
+      ],
+      "tools": [
+        "cevq",
+        "project_based_learning",
+        "artistic_expression"
+      ],
+      "virtues": [
+        "responsibility"
+      ],
+      "strategies": [
+        "experiential_learning"
+      ],
+      "objectives": [],
+      "target_age_min": 10,
+      "target_age_max": 20,
+      "duration": 0.9166666666666666,
+      "group_size_min": 15,
+      "group_size_max": 30,
+      "pdf_path": "FICHES PEDAGOGIQUES\\Ethique\\Séance - Rêver le monde nouveau FR-ET-SCP-10p-20.pdf"
+    },
+    {
+      "id": "1_qui_as_tu_aid_aujourd_hui",
+      "title": "1 - Qui as tu aidé aujourd'hui",
+      "description": "Lesson from Séance 1 - Qui as tu aidé aujourd'hui FR-ET-SCP-4-6-12.pdf",
+      "domain": "Ethics",
+      "discipline": "socio_emotional",
+      "axes": [
+        "peace_with_self",
+        "peace_with_others"
+      ],
+      "tools": [
+        "cevq",
+        "artistic_expression"
+      ],
+      "virtues": [
+        "gratitude",
+        "sharing"
+      ],
+      "strategies": [
+        "experiential_learning"
+      ],
+      "objectives": [],
+      "target_age_min": 4,
+      "target_age_max": 6,
+      "duration": 0.3333333333333333,
+      "group_size_min": 15,
+      "group_size_max": 30,
+      "pdf_path": "FICHES PEDAGOGIQUES\\Ethique\\Séance 1 - Qui as tu aidé aujourd'hui FR-ET-SCP-4-6-12.pdf"
+    },
+    {
+      "id": "les_enfants_m_diateurs_de_paix",
+      "title": "Les enfants médiateurs de paix",
+      "description": "Lesson from Séance - Les enfants médiateurs de paix FR-L-EX-5p-11.pdf",
+      "domain": "Languages",
+      "discipline": "expression",
+      "axes": [
+        "peace_with_self",
+        "peace_with_others",
+        "peace_with_environment"
+      ],
+      "tools": [
+        "cevq",
+        "project_based_learning",
+        "artistic_expression",
+        "solution_oriented_learning"
+      ],
+      "virtues": [
+        "responsibility",
+        "sharing"
+      ],
+      "strategies": [
+        "experiential_learning"
+      ],
+      "objectives": [],
+      "target_age_min": 5,
+      "target_age_max": 11,
+      "duration": 0.8333333333333334,
+      "group_size_min": 15,
+      "group_size_max": 30,
+      "pdf_path": "FICHES PEDAGOGIQUES\\Langues\\Séance - Les enfants médiateurs de paix FR-L-EX-5p-11.pdf"
+    },
+    {
+      "id": "le_secret_de_la_lettre_ba",
+      "title": "Le Secret de la lettre BA",
+      "description": "Lesson from Séquence - Le Secret de la lettre BA  FR-L-CO_CEC-5-5.pdf",
+      "domain": "Languages",
+      "discipline": "co_cec",
+      "axes": [
+        "peace_with_self",
+        "peace_with_others",
+        "peace_with_environment"
+      ],
+      "tools": [
+        "cevq"
+      ],
+      "virtues": [
+        "responsibility"
+      ],
+      "strategies": [
+        "experiential_learning"
+      ],
+      "objectives": [],
+      "target_age_min": 5,
+      "target_age_max": 5,
+      "duration": 0.4166666666666667,
+      "group_size_min": 15,
+      "group_size_max": 30,
+      "pdf_path": "FICHES PEDAGOGIQUES\\Langues\\Séquence - Le Secret de la lettre BA  FR-L-CO_CEC-5-5.pdf"
+    },
+    {
+      "id": "seance_escape_game",
+      "title": "Seance escape game",
+      "description": "Lesson from Seance escape game TU-FR-SC-MAT-13-16-62.pdf",
+      "domain": "Unknown",
+      "discipline": "sc",
+      "axes": [
+        "peace_with_others"
+      ],
+      "tools": [
+        "cevq",
+        "project_based_learning",
+        "artistic_expression",
+        "solution_oriented_learning"
+      ],
+      "virtues": [
+        "responsibility"
+      ],
+      "strategies": [
+        "experiential_learning"
+      ],
+      "objectives": [],
+      "target_age_min": 13,
+      "target_age_max": 16,
+      "duration": 1.0,
+      "group_size_min": 15,
+      "group_size_max": 30,
+      "pdf_path": "FICHES PEDAGOGIQUES\\Sciences\\Seance escape game TU-FR-SC-MAT-13-16-62.pdf"
+    },
+    {
+      "id": "seance_reflechir_avant_d_agir",
+      "title": "Seance reflechir avant d'agir",
+      "description": "Lesson from Seance reflechir avant d'agir TU-FR-ET-SCP-13-16-61.pdf",
+      "domain": "Unknown",
+      "discipline": "et",
+      "axes": [
+        "peace_with_self",
+        "peace_with_others"
+      ],
+      "tools": [
+        "cevq",
+        "artistic_expression",
+        "solution_oriented_learning"
+      ],
+      "virtues": [
+        "respect"
+      ],
+      "strategies": [
+        "experiential_learning"
+      ],
+      "objectives": [],
+      "target_age_min": 13,
+      "target_age_max": 16,
+      "duration": 1.0,
+      "group_size_min": 15,
+      "group_size_max": 30,
+      "pdf_path": "FICHES PEDAGOGIQUES\\Sciences\\Seance reflechir avant d'agir TU-FR-ET-SCP-13-16-61.pdf"
+    },
+    {
+      "id": "aventures_d_un_verre_d_eau",
+      "title": "Aventures d'un verre d'eau",
+      "description": "Lesson from Séance - Aventures d'un verre d'eau  FR-SC-EN-6-12-39.pdf",
+      "domain": "Sciences",
+      "discipline": "environmental_science",
+      "axes": [
+        "peace_with_self",
+        "peace_with_others",
+        "peace_with_environment"
+      ],
+      "tools": [
+        "cevq",
+        "meditation",
+        "project_based_learning",
+        "solution_oriented_learning"
+      ],
+      "virtues": [
+        "empathy",
+        "patience",
+        "benevolence",
+        "humility"
+      ],
+      "strategies": [
+        "experiential_learning"
+      ],
+      "objectives": [],
+      "target_age_min": 6,
+      "target_age_max": 12,
+      "duration": 1.0,
+      "group_size_min": 15,
+      "group_size_max": 30,
+      "pdf_path": "FICHES PEDAGOGIQUES\\Sciences\\Séance - Aventures d'un verre d'eau  FR-SC-EN-6-12-39.pdf"
+    },
+    {
+      "id": "mandala_d_une_assiette_de_riz",
+      "title": "Mandala d'une assiette de riz",
+      "description": "Lesson from Séance - Mandala d'une assiette de riz  FR-SC-EN-6-14-4.pdf",
+      "domain": "Sciences",
+      "discipline": "environmental_science",
+      "axes": [
+        "peace_with_self",
+        "peace_with_others",
+        "peace_with_environment"
+      ],
+      "tools": [
+        "cevq",
+        "project_based_learning",
+        "artistic_expression"
+      ],
+      "virtues": [
+        "gratitude",
+        "patience",
+        "benevolence",
+        "humility",
+        "respect"
+      ],
+      "strategies": [
+        "experiential_learning"
+      ],
+      "objectives": [],
+      "target_age_min": 6,
+      "target_age_max": 14,
+      "duration": 3.0,
+      "group_size_min": 15,
+      "group_size_max": 30,
+      "pdf_path": "FICHES PEDAGOGIQUES\\Sciences\\Séance - Mandala d'une assiette de riz  FR-SC-EN-6-14-4.pdf"
+    },
+    {
+      "id": "m_tamorphose_d_un_tas_de_terre",
+      "title": "Métamorphose d’un tas de terre",
+      "description": "Lesson from Séance - Métamorphose d’un tas de terre FR-SC-SVT-6-12-27.pdf",
+      "domain": "Sciences",
+      "discipline": "life_sciences",
+      "axes": [
+        "peace_with_self",
+        "peace_with_others",
+        "peace_with_environment"
+      ],
+      "tools": [
+        "cevq",
+        "project_based_learning",
+        "artistic_expression"
+      ],
+      "virtues": [
+        "cooperation"
+      ],
+      "strategies": [
+        "experiential_learning"
+      ],
+      "objectives": [],
+      "target_age_min": 6,
+      "target_age_max": 12,
+      "duration": 2.0,
+      "group_size_min": 15,
+      "group_size_max": 30,
+      "pdf_path": "FICHES PEDAGOGIQUES\\Sciences\\Séance - Métamorphose d’un tas de terre FR-SC-SVT-6-12-27.pdf"
+    },
+    {
+      "id": "que_serait_le_monde_sans_abeilles",
+      "title": "Que serait le monde sans abeilles",
+      "description": "Lesson from Séance - Que serait le monde sans abeilles FR-SC-SVT-4-6-31.pdf",
+      "domain": "Sciences",
+      "discipline": "life_sciences",
+      "axes": [
+        "peace_with_environment"
+      ],
+      "tools": [
+        "cevq",
+        "artistic_expression"
+      ],
+      "virtues": [
+        "responsibility"
+      ],
+      "strategies": [
+        "experiential_learning"
+      ],
+      "objectives": [],
+      "target_age_min": 4,
+      "target_age_max": 6,
+      "duration": 0.75,
+      "group_size_min": 15,
+      "group_size_max": 30,
+      "pdf_path": "FICHES PEDAGOGIQUES\\Sciences\\Séance - Que serait le monde sans abeilles FR-SC-SVT-4-6-31.pdf"
+    },
+    {
+      "id": "r_fl_chir_avant_d_agir",
+      "title": "Réfléchir avant d'agir",
+      "description": "Lesson from Séance - Réfléchir avant d'agir FR-SC-MAT-5-8-8.pdf",
+      "domain": "Sciences",
+      "discipline": "mathematics",
+      "axes": [
+        "peace_with_self"
+      ],
+      "tools": [
+        "cevq",
+        "artistic_expression",
+        "solution_oriented_learning"
+      ],
+      "virtues": [
+        "responsibility"
+      ],
+      "strategies": [
+        "experiential_learning"
+      ],
+      "objectives": [],
+      "target_age_min": 5,
+      "target_age_max": 8,
+      "duration": 0.4166666666666667,
+      "group_size_min": 15,
+      "group_size_max": 30,
+      "pdf_path": "FICHES PEDAGOGIQUES\\Sciences\\Séance - Réfléchir avant d'agir FR-SC-MAT-5-8-8.pdf"
+    },
+    {
+      "id": "structure_de_l_univers",
+      "title": "structure de l'univers",
+      "description": "Lesson from Séance structure de l'univers TU-FR-SC-PC-13-16-64.pdf",
+      "domain": "Unknown",
+      "discipline": "sc",
+      "axes": [
+        "peace_with_self",
+        "peace_with_others",
+        "peace_with_environment"
+      ],
+      "tools": [
+        "cevq",
+        "project_based_learning",
+        "artistic_expression",
+        "solution_oriented_learning"
+      ],
+      "virtues": [
+        "responsibility"
+      ],
+      "strategies": [
+        "experiential_learning"
+      ],
+      "objectives": [],
+      "target_age_min": 13,
+      "target_age_max": 16,
+      "duration": 1.0,
+      "group_size_min": 15,
+      "group_size_max": 30,
+      "pdf_path": "FICHES PEDAGOGIQUES\\Sciences\\Séance structure de l'univers TU-FR-SC-PC-13-16-64.pdf"
+    },
+    {
+      "id": "la_vie_d_une_feuille",
+      "title": "La vie d 'une feuille",
+      "description": "Lesson from Séquence - La vie d 'une feuille FR-SC-EN-5p-28.pdf",
+      "domain": "Sciences",
+      "discipline": "environmental_science",
+      "axes": [
+        "peace_with_self",
+        "peace_with_others",
+        "peace_with_environment"
+      ],
+      "tools": [
+        "cevq",
+        "meditation",
+        "artistic_expression"
+      ],
+      "virtues": [
+        "respect"
+      ],
+      "strategies": [
+        "experiential_learning"
+      ],
+      "objectives": [],
+      "target_age_min": 5,
+      "target_age_max": 28,
+      "duration": 0.4166666666666667,
+      "group_size_min": 15,
+      "group_size_max": 30,
+      "pdf_path": "FICHES PEDAGOGIQUES\\Sciences\\Séquence - La vie d 'une feuille FR-SC-EN-5p-28.pdf"
+    },
+    {
+      "id": "le_plaisir_de_donner",
+      "title": "Le plaisir de donner",
+      "description": "Lesson from Séquence - Le plaisir de donner  TU-FR-SC-MAT-5-7-52.pdf",
+      "domain": "Unknown",
+      "discipline": "sc",
+      "axes": [
+        "peace_with_self",
+        "peace_with_others"
+      ],
+      "tools": [
+        "cevq",
+        "project_based_learning",
+        "artistic_expression",
+        "solution_oriented_learning"
+      ],
+      "virtues": [
+        "patience",
+        "cooperation",
+        "sharing",
+        "respect"
+      ],
+      "strategies": [
+        "experiential_learning"
+      ],
+      "objectives": [],
+      "target_age_min": 5,
+      "target_age_max": 7,
+      "duration": 0.5,
+      "group_size_min": 15,
+      "group_size_max": 30,
+      "pdf_path": "FICHES PEDAGOGIQUES\\Sciences\\Séquence - Le plaisir de donner  TU-FR-SC-MAT-5-7-52.pdf"
+    },
+    {
+      "id": "les_bienfaits_du_partage",
+      "title": "Les bienfaits du partage",
+      "description": "Lesson from Séquence - Les bienfaits du partage FR-SC-MAT-5-6-32.pdf",
+      "domain": "Sciences",
+      "discipline": "mathematics",
+      "axes": [
+        "peace_with_self",
+        "peace_with_others"
+      ],
+      "tools": [
+        "cevq",
+        "artistic_expression",
+        "solution_oriented_learning"
+      ],
+      "virtues": [
+        "sharing"
+      ],
+      "strategies": [
+        "experiential_learning"
+      ],
+      "objectives": [],
+      "target_age_min": 5,
+      "target_age_max": 6,
+      "duration": 0.6666666666666666,
+      "group_size_min": 15,
+      "group_size_max": 30,
+      "pdf_path": "FICHES PEDAGOGIQUES\\Sciences\\Séquence - Les bienfaits du partage FR-SC-MAT-5-6-32.pdf"
+    }
+  ]
+}

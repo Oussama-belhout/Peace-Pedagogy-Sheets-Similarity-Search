@@ -1,0 +1,10 @@
+owlready2
+rdflib
+numpy
+pandas
+scikit-learn
+jupyter
+matplotlib
+
+
+
