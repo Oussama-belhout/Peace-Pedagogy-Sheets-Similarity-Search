@@ -10,6 +10,7 @@ def create_peace_pedagogy_ontology():
     Creates the Peace Pedagogy ontology with all classes, properties, and rules
     """
     
+    
     # Create ontology
     onto = get_ontology("http://www.semanticweb.org/peace-pedagogy/ontology")
     

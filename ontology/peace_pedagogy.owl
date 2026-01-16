@@ -225,9 +225,6 @@
   <rdfs:subClassOf rdf:resource="#LearningObjective"/>
 </owl:Class>
 
-<owl:Class rdf:about="#SocioEmotionalObjective">
-  <rdfs:subClassOf rdf:resource="#LearningObjective"/>
-</owl:Class>
 
 <owl:Class rdf:about="#BehavioralObjective">
   <rdfs:subClassOf rdf:resource="#LearningObjective"/>

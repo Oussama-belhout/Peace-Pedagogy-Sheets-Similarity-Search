@@ -44,7 +44,7 @@ class PedagogicalSheetParser:
         
         # Keywords for detecting pedagogical elements
         self.virtue_keywords = {
-            'gratitude': ['gratitude', 'reconnaissance', 'remerci'],
+            'gratitude': ['gratitude', 'reconnaissance', 'remerci'], 
             'empathy': ['empathie', 'empathy', 'compassion'],
             'responsibility': ['responsabilité', 'responsibility', 'responsable'],
             'patience': ['patience', 'patient'],
@@ -141,7 +141,7 @@ class PedagogicalSheetParser:
         for virtue, keywords in self.virtue_keywords.items():
             if any(keyword in text for keyword in keywords):
                 virtues.append(virtue)
-        return virtues
+        return virtues 
     
     def detect_tools(self, text: str) -> List[str]:
         """

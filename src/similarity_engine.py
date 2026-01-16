@@ -26,7 +26,16 @@ class SimilarityEngine:
             'duration': 0.05,
             'domain': 0.05
         }
-    
+
+    """
+        Supervised learning ( (F1,F2), Similarity_annotation )
+
+        Parser : approche ontologies/taxonomy (dictionnaire intelligent)
+        Weights : SDL
+
+        annotation tasks
+    """
+
     def jaccard_similarity(self, set1, set2):
         """
         Compute Jaccard similarity between two sets
