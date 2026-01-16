@@ -59,13 +59,6 @@ This project is part of the Peace Pedagogy initiative at UNICA M1.
 - Owlready2 Documentation: https://owlready2.readthedocs.io/
 - Protégé: https://protege.stanford.edu/
 
-## Contact
-
-For questions or collaboration opportunities regarding Peace Pedagogy, please reach out to the DS4H project team.
-
----
-
-**Built with ❤️ for Peace Education**
 
 
 
